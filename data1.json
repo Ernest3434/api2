@@ -1,0 +1,23 @@
+[
+    {
+        "id": 100,
+        "nombre": "Dragon ball",
+        "categoria": "Acción,Aventuras,Ficción",
+        "descripcion": "Actor Principal Lalo Garza y Adal Ramones",
+        "fecha": "2024-11-1T06:00:00.000Z"
+    },
+    {
+        "id": 101,
+        "nombre": "Kimetsu No Yaiba",
+        "categoria": "Demonios y Papás Borrachos",
+        "descripcion": "Se basa en la leyenda de la nahuala",
+        "fecha": "2024-11-2T06:00:00.000Z"
+    },
+    {
+        "id": 102,
+        "nombre": "The Seven Deadly Sins",
+        "categoria": "Juegos didacticos para bebés",
+        "descripcion": "basado en echos reales",
+        "fecha": "2024-11-3T06:00:00.000Z"
+    }
+]
